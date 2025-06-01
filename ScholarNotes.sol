@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: Apache-2.0
 // Copyright 2025 Leonardo Gutiérrez Ramírez (leogutierrezramirez@gmail.com)
 pragma solidity ^0.8.8;
-pragma experimental ABIEncoderV2;
 
 /*
 | Alumno        |   ID   |  NOTA  |
